@@ -1,4 +1,4 @@
-# Hi there :wave: 👋
+# Hi there 👋
 I am Sebastjan, a Computer Science student living in Slovenia.
 
 ## My work 👨‍💻
@@ -8,6 +8,6 @@ Besides work for the university, I'm learning and developing Web and Android gam
 
 ## Get in touch ✉️
 
-- On Twitter @sebastjan99
+- On Twitter [@sebastjan99](https://twitter.com/sebastjan99)
 - By email sm9299@student.uni-lj.si
 - On LinkedIn
