@@ -22,4 +22,4 @@ Besides work for the university, I'm learning and developing Web and Android gam
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sebastjan_mevlja/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/sebastjan99)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]()
-- By email sm9299@student.uni-lj.si
+[:e-mail:](sm9299@student.uni-lj.si)
