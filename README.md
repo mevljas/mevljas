@@ -2,16 +2,24 @@
 I am Sebastjan, a Computer Science student based in Slovenia.
 
 ## About me 
-I am an ambitious and energetic student, who commits most of his time, to learning new upcoming technologies. I have worked with numerous fields of coding including full stack web and android development, microcontroller hardware, competitive coding and even animation. As an undergraduate I was introduced to Mobile Game Development which grabbed my interest instantly and I've been dedicated to mastering this vast field ever since.
+I am an ambitious and energetic student, who commits a lot of his time, to learning new upcoming technologies. I have worked with numerous fields of coding including web and android development, microcontroller hardware, game development and design. As an high school student I was introduced to Mobile Game Development which grabbed my interest instantly and I've been dedicated to mastering this vast field ever since.  
+In my free time, I like to learn new things, program and travel.
 
 ## Skills 🚀 
 - Java
 - Python
 - HTML & CSS
 - JavaScript
+- PHP
+- C
+- SQL
 - WebGL
 - Android
-- 
+- Arduino
+- Vagrant
+- Docker
+. Kubernetes
+
 
 ## What I'm up to 👨‍💻
 Besides work for the university, I'm learning and developing Web and Android games.
