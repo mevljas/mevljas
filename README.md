@@ -16,6 +16,7 @@ In my free time, I like to learn new things, program and travel.
 - JavaScript
 - Kubernetes
 - Laravel
+- Linux
 - PHP
 - Python
 - SQL
