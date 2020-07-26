@@ -24,7 +24,6 @@ In my free time, I like to learn new things, program and travel.
 - Vagrant
 - WebGL
 
-
 ## What I'm up to 👨‍💻
 Besides studying for the university, I'm learning to develop Web and Android games.
 
