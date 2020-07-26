@@ -3,7 +3,7 @@ I am Sebastjan, a Computer Science student based in Slovenia.
 
 ## About me 
 I am an ambitious and energetic student, who commits a lot of his time, learning new upcoming technologies. I have studied in numerous fields of coding including web and android development, microcontroller hardware and game development. As a high school student, I was introduced to Mobile Game Development which grabbed my interest instantly and I've been dedicated to exploring this vast field ever since.  
-In my free time, I like to learn new things, program and travel.
+In my free time, I like to learn new things, program, travel and ride my motorcycle.
 
 ## Skills 🚀 
 - Android
