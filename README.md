@@ -9,6 +9,7 @@ In my free time, I like to learn new things, program and travel.
 - Android
 - Arduino
 - C
+- Computer Communications
 - Docker
 - GTK
 - HTML & CSS
@@ -20,7 +21,8 @@ In my free time, I like to learn new things, program and travel.
 - PHP
 - Python
 - SQL
-- Software testing & quality
+- Software Testing & Quality
+- User Interfaces
 - Vagrant
 - WebGL
 
