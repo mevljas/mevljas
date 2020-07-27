@@ -12,7 +12,7 @@ In my free time, I like to learn new things, program, travel, read books and rid
 - Computer Communications
 - Docker
 - GTK
-- HTML & CSS
+- HTML5 & CSS3
 - Java
 - JavaScript
 - Kubernetes
