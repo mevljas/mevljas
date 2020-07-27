@@ -8,16 +8,20 @@ In my free time, I like to learn new things, program, travel, read books and rid
 ## Skills 🚀 
 - Android
 - Arduino
-- C
+- Bash
+- C/C++
 - Computer Communications
 - Docker
 - GTK
+- Git
 - HTML5 & CSS3
 - Java
 - JavaScript
 - Kubernetes
 - Laravel
+- LateX
 - Linux
+- MVC
 - PHP
 - Python
 - SQL
@@ -25,6 +29,7 @@ In my free time, I like to learn new things, program, travel, read books and rid
 - User Interfaces
 - Vagrant
 - WebGL
+- jQuery
 
 ## What I'm up to 👨‍💻
 Besides studying for the university, I'm learning to develop Web and Android games.
