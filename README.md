@@ -11,6 +11,7 @@ In my free time, I like to learn new things, program, travel, read books and rid
 - Bash
 - C/C++
 - Computer Communications
+- Django
 - Docker
 - GTK
 - Git
@@ -23,6 +24,7 @@ In my free time, I like to learn new things, program, travel, read books and rid
 - Linux
 - MVC
 - PHP
+- PostgreSQL
 - Python
 - SQL
 - Software Testing & Quality
