@@ -34,7 +34,7 @@ In my free time, I like to learn new things, program, travel, read books and rid
 - jQuery
 
 ## What I'm up to 👨‍💻
-Besides studying for the university, I'm learning to develop Web and Android games.
+Besides studying for the university, I'm learning to develop Web and Android applications.
 
 
 ## Get in touch ✉️
