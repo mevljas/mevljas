@@ -6,6 +6,7 @@ I am an ambitious and energetic student, who commits a lot of his time, learning
 In my free time, I like to learn new things, program, travel, read books and ride my motorcycle.
 
 ## Skills 🚀 
+- .NET Core
 - Android
 - Arduino
 - Bash
@@ -23,6 +24,7 @@ In my free time, I like to learn new things, program, travel, read books and rid
 - LateX
 - Linux
 - MVC
+- Node.js
 - PHP
 - PostgreSQL
 - Python
