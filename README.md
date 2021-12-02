@@ -39,7 +39,7 @@ I am an ambitious and energetic student, who commits a lot of his time, learning
 - jQuery
 
 ## What I'm up to 👨‍💻
-Besides studying for the university, I'm learning to develop Web and Android applications.
+Besides studying for the university, I'm learning to develop Web and Mobile applications.
 
 
 ## Get in touch ✉️
