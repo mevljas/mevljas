@@ -16,7 +16,6 @@ I am an ambitious and energetic student, who commits a lot of his time, learning
 - Django
 - Docker
 - Flutter
-- GTK
 - Git
 - HTML5 & CSS3
 - Java
@@ -33,7 +32,6 @@ I am an ambitious and energetic student, who commits a lot of his time, learning
 - SQL
 - Software Testing & Quality
 - User Interfaces
-- Vagrant
 - Vue.js
 - WebGL
 - jQuery
