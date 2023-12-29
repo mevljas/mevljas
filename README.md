@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastjan</h1>
 <h3 align="center">A passionate Software Engineer from Slovenia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mevljas&label=Profile%20views&color=0e75b6&style=flat" alt="mevljas" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=mevljas)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mevljas" alt="mevljas" /></a> </p>
 
