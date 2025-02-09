@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mevljas" alt="mevljas" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile App Development**
+- 🔭 I’m currently working on **Mobile and Web App Development**
 
 - 🌱 I’m currently learning **Nest.js**
 
-- 👨‍💻 All of my projects are available on [my website](https://sebastjanmevlja.tk/)
+- 👨‍💻 All of my projects are available on [my website](https://sebastjanmevlja.me/)
 
-- 💬 Ask me about **Dart, Flutter, Node.js**
+- 💬 Ask me about **Dart, Flutter, Node.js, Nuxt**
 
 - 📫 How to reach me [✉️](mailto:sebastjan.mevlja@gmail.com)
 
