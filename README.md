@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [✉️](mailto:sebastjan.mevlja@gmail.com)
 
-- 📄 Know about my experiences [CV](https://sebastjanmevlja.tk/static/media/Resume.bbf1004fa57a1b5a2cb1.pdf)
+- 📄 Know about my experiences [CV](https://sebastjanmevlja.me/static/media/Resume.08308089f215e805768b.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
